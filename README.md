@@ -15,25 +15,16 @@ The project includes RTL design, testbench verification, simulation waveforms, s
 
 ## Repository Structure
 
-AHB_APB_Bridge/
+AHB_APB_Bridge_verilog/
 
-├── RTL/
-│   ├── ahb_interface.v
-│   ├── apb_controller.v
-│   ├── apb_slave.v
-│   └── ahb_apb_bridge.v
-│
-├── Testbench/
-│   └── ahb_apb_tb.v
-│
-├── Waveforms/
-│
-├── Synthesis/
-│
-├── Documentation/
-│   ├── Internship_Report.pdf
-│
-└── README.md
+├── AHB_APB_Bridge_Report.pdf  
+├── README.md
+├── AHB_APB_Bridge.v
+├── AHB_Slave_Interface.v
+├── APB_Controller.v
+├── APB_Slave.v
+└── Testbench_Bridge.v
+
 
 ## Modules
 
